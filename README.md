@@ -121,6 +121,10 @@ The dataset was organized into training, validation, and test sets and contains 
 
 The `images` folder contains photos of the Raspberry Pi and the physical waste sorting system.
 
+## Experiments and Results
+
+Detailed documentation of the CNN experiments, transfer learning, MobileNetV2 fine-tuning, final evaluation, and Raspberry Pi deployment is available in the Experiments and Results document.
+
 ## Future Improvements
 
 Some possible improvements for the system include:
